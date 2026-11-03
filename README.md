@@ -63,4 +63,3 @@ Currently, I'm expanding my automation testing skills using Selenium and Python.
 
 ---
 
-⭐ Thank you for visiting my QA Portfolio!
